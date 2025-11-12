@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sibasish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sibasish Panda</h1>
+<h3 align="center">A passionate software engineer from India</h3>
 
-- 🌱 I’m currently learning **DSA,WEB Developer**
+- 🌱 I’m learned about **DSA,WEB Developer**
+- 🌱 Working on SQL using platform MySQL
+- 🌱 Platforms & IDEs: Visual Studio Code, Jupyter Notebook, MySQL
+- 🌱 Data Tools: Microsoft Office Suite (Excel, PowerPoint, Word)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
